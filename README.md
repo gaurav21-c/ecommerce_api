@@ -29,8 +29,8 @@ DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=ecommerce_db
-DB_USERNAME=Gaurav
-DB_PASSWORD=Abc@1234
+DB_USERNAME=yourusername
+DB_PASSWORD=yourpassword
 ```
 
 ### 3️⃣ **Start Docker Containers**
